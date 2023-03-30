@@ -1,2 +1,3 @@
-# Example
-An example greeter plugin
+# Gainz Graph
+
+TODO: Write docs on how to configure and what everything means
